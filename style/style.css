@@ -1,0 +1,8 @@
+body {
+	background-color: #9CCECE;
+}
+
+#main_menu li { float: left;padding: 0px;text-indent: 0em; list-style-type: none;margin: 0px 10px 0px 0px;}
+#main_menu ul { padding: 0;}
+#main_menu {clear: both;}
+.title {clear: both;}
